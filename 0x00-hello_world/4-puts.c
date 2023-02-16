@@ -1,5 +1,6 @@
 #include	<stdio.h>
  /**
+  * main:	Entry	point
   * main:	-	A	program	that	prints	a	line	using	the	puts	function
   * return:	0	(success)
   */
