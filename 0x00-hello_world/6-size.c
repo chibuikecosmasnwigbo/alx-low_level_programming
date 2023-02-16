@@ -4,7 +4,7 @@
  *
  * return:	o	(success)
  */
-int	main(void)
+int	main.c(void)
 {
 	char	a;
 	int	b;
