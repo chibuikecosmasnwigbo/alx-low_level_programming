@@ -11,6 +11,7 @@ int	main(void)/*	Returns	nothing	*/
 {
 
 	int	n;
+
 	n	=	13;
 
 	srand(time(0));
