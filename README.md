@@ -1,1 +1,1 @@
-this a repository readne
+alx swe project for variables
