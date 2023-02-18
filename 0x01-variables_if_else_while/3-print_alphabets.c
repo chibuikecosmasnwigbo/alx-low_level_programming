@@ -24,7 +24,7 @@ int	main(void) /*	Return	nothing	*/
 		(d	<=	'Z')
 		{
 			putchar(d);
-			c++;
+			d++;
 		}
 	return	(0);
 }
