@@ -15,13 +15,13 @@ int	main(void) /*	Return	nothing	*/
 	d	=	'A';
 
 	while
-		(c	<=	'a')
+		(c	<=	'z')
 		{
 			putchar(c);
 			c++;
 		}
 	while
-		(d	<=	'A')
+		(d	<=	'Z')
 		{
 			putchar(d);
 			c++;
