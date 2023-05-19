@@ -1,3 +1,4 @@
+#include	<stdio.h>
 /*
  * main	-	write	a	program	that	print	alphabet	in	lowercase
  *
