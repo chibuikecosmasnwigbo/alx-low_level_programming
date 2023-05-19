@@ -10,13 +10,17 @@ int	main(void)
 	char	upper_z	=	'Z';
 	char	ch	=	'a';
 	char	ch_z	=	'z';
-	while	(ch	<=	ch_z	&&	upper_a	<=	upper_z)
+	while	(ch	<=	ch_z)
 	{
 		putchar(ch);
 		ch++;
-		putchar(upper_a);
-		upper_a++;
 	}
+	while	(upper_a	<=	ch_z)
+	{
+		putchar(upper_a);
+		upper_a++
+	}
+	putchar('\n');
 	return	(0);
 }
 
