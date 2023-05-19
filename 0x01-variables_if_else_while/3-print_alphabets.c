@@ -1,6 +1,8 @@
 #include	<stdio.h>
 /*
  *	main	-	Entry	point
+ *	
+ *	Description:	print	aphabets	upper	case	and	lower	case
  *
  *	Return:	Always	0	(succsess)
  */
@@ -14,9 +16,9 @@ int	main(void)
 	while	(ch	<=	ch_z	&&	upper_a	<=	upper_z)
 	{
 		putchar(ch);
+		ch++;
 		putchar(upper_a);
 		upper_a++;
-		upper_z++;
 	}
 	return	(0);
 }
