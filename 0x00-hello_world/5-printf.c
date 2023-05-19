@@ -1,10 +1,8 @@
 #include	<stdio.h>
 /**
- * Entry:	main
+ * main	-	a	program	that	print	a	line	using	printf
  *
- * Description:	print	formated	output	using	printf
- * 
- * Return	(success)
+ * Return:	0	(success)
  */
 
 int	main(void)
