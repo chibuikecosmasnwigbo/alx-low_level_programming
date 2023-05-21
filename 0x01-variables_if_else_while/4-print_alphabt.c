@@ -21,4 +21,5 @@ int	main(void)
 		ch_a++;
 	}
 	putchar('\n');
+	return	(0);
 }
