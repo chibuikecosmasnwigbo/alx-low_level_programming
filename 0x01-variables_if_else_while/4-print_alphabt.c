@@ -9,6 +9,7 @@
 
 /*	main	description	*/
 int	main(void)
+
 {
 	char	ch_a	=	'a';
 	while	(ch_a	<=	'z')
