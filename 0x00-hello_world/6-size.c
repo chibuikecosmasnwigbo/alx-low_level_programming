@@ -7,15 +7,15 @@
  */
 int	main(void)
 {
-	int	i;
-	char	c;
-	long	int	k;
-	long	long	int	j;
-	float	m;
+	char	a;
+	int	b;
+	long	int	c;
+	long	long	int	d;
+	float	f;
 
-	printf("size	of	a	char:	%c	bytes(s)\n",	(unsigned)sizeof(c));
-	printf("size	of	an	int:	%u	bytes(s)\n",	(unsigned)sizeof(i));
-	printf("size	of	a	long	int:	%lu	bytes(s)\n",		(unsigned)sizeof(k));
-	printf("size	of	a	long	long	int:	%llu	bytes(s)\n",	(unsigned)sizeof(j));
-	printf("size	of	a	float:	%f	bytes(s)\n",	(unsigned)sizeof(m));
+	printf("size	of	a	char:	%lu	bytes(s)\n",	(unsigned)sizeof(a));
+	printf("size	of	an	int:	%lu	bytes(s)\n",	(unsigned)sizeof(b));
+	printf("size	of	a	long	int:	%lu	bytes(s)\n",		(unsigned)sizeof(c));
+	printf("size	of	a	long	long	int:	%lu	bytes(s)\n",	(unsigned)sizeof(d));
+	printf("size	of	a	float:	%lu	bytes(s)\n",	(unsigned)sizeo(f));
 
