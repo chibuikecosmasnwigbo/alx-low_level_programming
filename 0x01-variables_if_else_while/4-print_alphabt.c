@@ -6,8 +6,6 @@
  *
  */
 
-
-/*	main	description	*/
 int	main(void)
 
 {
