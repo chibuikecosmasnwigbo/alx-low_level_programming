@@ -8,7 +8,7 @@
 
 int	main(void)
 {
-	char_z	=	'z';
+	char	ch_z	=	'z';
 
 	while	(ch_z	>	'a')
 	{
