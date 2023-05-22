@@ -1,7 +1,7 @@
 #include	<stdio.h>
 /*
  * main	-	Entry
- *
+ * Description:	this function executes the main logic of the program
  * Return:	Always	0	(SUCCESS)
  */
 
