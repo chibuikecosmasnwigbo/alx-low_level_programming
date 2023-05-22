@@ -6,6 +6,7 @@
  *
  */
 
+/*	function	main	description	*/
 int	main(void)
 {
 	int	i	=	0;
