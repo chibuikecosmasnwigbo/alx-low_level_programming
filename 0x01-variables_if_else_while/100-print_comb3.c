@@ -1,6 +1,8 @@
 #include	<stdio.h>
 /*
- * main	-	Entry
+ *	main	-	Entry
+ *
+ *	Description:	this	function	excutes	the	main	logic	of	the	program
  *
  *	Return:	Always	0	(success)
  */
