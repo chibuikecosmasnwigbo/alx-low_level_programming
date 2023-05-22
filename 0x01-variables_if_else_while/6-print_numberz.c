@@ -6,8 +6,7 @@
  *
  */
 
-/*	function	main	description	*/
-int	main(void)
+int	main(void)/*	funtion	main	description	*/
 {
 	int	i	=	0;
 
