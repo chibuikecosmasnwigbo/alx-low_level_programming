@@ -5,7 +5,7 @@
  * Return: Always 0.
  */
 
-int	main(char)
+int	_putchar(char)
 {
 _putchar('-');
 _putchar('p');
