@@ -4,11 +4,8 @@
  *
  * Return: Always 0.
  */
-{
-	_putchar(char);
-}
 
-int	_putchar(char	ch)
+int	_putchar(char	c)
 {
 _putchar('-');
 _putchar('p');
