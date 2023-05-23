@@ -4,6 +4,9 @@
  *
  * Return: Always 0.
  */
+{
+	_putchar(char);
+}
 
 int	_putchar(char	ch)
 {
