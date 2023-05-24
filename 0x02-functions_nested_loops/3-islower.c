@@ -9,14 +9,9 @@
 int _islower(int c)
 {
 	int letter	=	'a';
-
-	while	(letter	>=	'a'	||	letter	<=	'z')
+	if	(letter	>=	'a'	||	letter	<=	'z')
 	{
-
-		if	(c	==	letter)
-		{
-			return	(c);
-		}
+		return	(c);
 	}
 	return	(0);
 }
