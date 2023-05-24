@@ -15,7 +15,7 @@ int _islower(int c)
 
 		if	(c	==	letter)
 		{
-			return	(1);
+			return	(c);
 		}
 	}
 	return	(0);
