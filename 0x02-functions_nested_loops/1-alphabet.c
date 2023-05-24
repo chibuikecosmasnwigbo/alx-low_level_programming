@@ -17,5 +17,5 @@ void print_alphabet()
 		_putchar(ch);
 		ch++;
 	}
-	return	(0);
+	return	();
 }
